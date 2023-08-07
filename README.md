@@ -1,8 +1,8 @@
 # Boston Burger Blog
 
-![Burger Image 1](https://github.com/ohxrn/Boston-Burger-Blog/blob/main/assets/79466519/756cc8c0-dd67-4bf6-9f83-dabcf2d7d1f3.png)
+<img width="1728" alt="Screenshot 2023-08-07 at 2 19 25 PM" src="https://github.com/ohxrn/Boston-Burger-Blog/assets/79466519/86e1af83-873e-4c45-aca9-0c3b9c46fb88">
+<img width="1728" alt="Screenshot 2023-08-07 at 2 19 33 PM" src="https://github.com/ohxrn/Boston-Burger-Blog/assets/79466519/1bd769dd-fecf-4716-b9db-83cdab0bf873">
 
-![Burger Image 2](https://github.com/ohxrn/Boston-Burger-Blog/blob/main/assets/79466519/f6f85ed9-d8b9-4db2-b472-c5c7f5623196.png)
 
 ## Overview
 Welcome to the Boston Burger Blog! This is a Python project that showcases the latest trends in the burger scene across Boston. The project utilizes cutting-edge security technology, including bcrypt, to ensure secure user authentication for logging in and out.
