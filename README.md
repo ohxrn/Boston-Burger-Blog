@@ -31,7 +31,7 @@ Welcome to the Boston Burger Blog! This is a Python project that showcases the l
 We welcome contributions from the community! If you have any new burger spots to feature or want to improve the user experience, feel free to open a pull request.
 
 ## Credits
-This project was created and maintained by [Your Name](https://github.com/yourusername).
+This project was created and maintained by Jack Ohrn.
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code as you see fit.
