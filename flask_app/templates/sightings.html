@@ -11,8 +11,8 @@
   <body>
     <div class="header">
       <div class="section1">
-        <h1>Booming Burgers</h1>
-        <h1>See Burger Ratings</h1>
+        <h1>Boston Burg'</h1>
+        <h1>Add Burger Ratings</h1>
       </div>
       <div class="section2">
         <h1>{{session['first_name']}}</h1>
@@ -30,8 +30,8 @@
     {% endfor %} {% endif %} {% endwith %}
     <div class="contForm">
       <div class="lefttext">
-        <h2>Location</h2>
-        <h2>What happened</h2>
+        <h2>Restaraunt Name</h2>
+        <h2>Add review</h2>
       </div>
       <div class="forms">
         <form action="/make_sighting" method="POST">
@@ -44,9 +44,9 @@
        
       </div>
       <div class="forms1">
-        <h2>Date Seen</h2>
+        <h2>Date</h2>
         <input class="different" type="date" name="sighting_date" id="different">
-        <h2>How many sasquatches</h2>
+        <h2>Rating 1-10 of Restaraunt</h2>
        <input type="text" name="how_many">
        
 <button type="submit">Progress</button>

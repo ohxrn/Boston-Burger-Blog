@@ -11,12 +11,12 @@
   <body>
     <div class="header">
       <div class="section1">
-        <h1>Sasquatch websighting</h1>
-        <h1>Report a sighting</h1>
+        <h1>Boston Burg'</h1>
+        <h1>Edit Burger Review</h1>
       </div>
       <div class="section2">
         <h1>{{session['first_name']}}</h1>
-        <a href="">Back to recipes</a> <a href="">logout</a>
+        <a href="">Back to burgers</a> <a href="">logout</a>
       </div>
     </div>
     {% with messages = get_flashed_messages(with_categories=true) %}
@@ -31,7 +31,7 @@
     <div class="contForm">
       <div class="lefttext">
         <h2>Location</h2>
-        <h2>What happened</h2>
+        <h2>Review</h2>
       </div>
       <div class="forms">
         <h1>{{edit[0]['id']}}</h1>
@@ -45,10 +45,10 @@
        
       </div>
       <div class="forms1">
-        <h2>Date Seen</h2>
+        <h2>Date</h2>
         <input class="different" type="date" name="sighting_date" id="different">
-        <h2>How many sasquatches</h2>
-       <input type="text" value="{{edit[0]['how_many']}}"name="how_many" <h1>{{edit[0]['how_many']}}<h1>
+        <h2>Rating</h2>
+       <input type="text" value="{{edit[0]['how_many']}}"name="how_many" {{edit[0]['how_many']}}<h1>
        
 <button type="submit">Progress</button>
 </form>
