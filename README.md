@@ -1,7 +1,7 @@
 # Boston Burger Blog
 
-<img width="1728" alt="Screenshot 2023-08-07 at 2 19 25 PM" src="https://github.com/ohxrn/Boston-Burger-Blog/assets/79466519/86e1af83-873e-4c45-aca9-0c3b9c46fb88">
-<img width="1728" alt="Screenshot 2023-08-07 at 2 19 33 PM" src="https://github.com/ohxrn/Boston-Burger-Blog/assets/79466519/1bd769dd-fecf-4716-b9db-83cdab0bf873">
+<img width="30%" alt="Screenshot 2023-08-07 at 2 19 25 PM" src="https://github.com/ohxrn/Boston-Burger-Blog/assets/79466519/86e1af83-873e-4c45-aca9-0c3b9c46fb88">
+<img width="30%" alt="Screenshot 2023-08-07 at 2 19 33 PM" src="https://github.com/ohxrn/Boston-Burger-Blog/assets/79466519/1bd769dd-fecf-4716-b9db-83cdab0bf873">
 
 
 ## Overview
