@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{{ url_for('static',
+    filename='/style4.css') }}"
+    />
+
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Welcome back {{session['first_name']}}</h1>
+    <h1>Sasquatch websighting</h1>
+
+    <h2><a href="/logout">logout</a></h2>
+    <h2><a href="/go_to_main">to dashboard</a></h2>
+
+    <div class="card">
+      <h1>{{wild[0]['location']}} On {{wild[0]['sighting_date']}}</h1>
+      <h1>What Happened:   {{wild[0]['what_happened']}}
+      <h1>Number of Sashquashes: {{wild[0]['how_many']}}</h1>
+    </div>
+  </body>
+</html>

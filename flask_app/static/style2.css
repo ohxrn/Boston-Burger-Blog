@@ -1,0 +1,19 @@
+
+form {
+    text-align: center;
+}
+
+button {
+    margin:15px;
+}
+.table {
+    margin:0 auto;
+    text-align:center;
+    width:950px;
+    border:5px solid black;
+    margin-top:55px;
+}
+
+h4 {
+    margin-left:40px;
+}

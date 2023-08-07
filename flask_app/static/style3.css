@@ -1,0 +1,59 @@
+.header {
+    display: flex;
+    border:7px solid black;
+    border-radius:33px;
+}
+
+.section1 {
+    flex:2;
+}
+.section2 {
+    font-size: 1.6rem;
+    display: flex;
+    flex:1;
+    justify-content:space-around;
+    margin-top:25px;
+}
+h1 {
+    font-size: 4rem;
+    margin-left:45px;
+    margin-top:45px;
+    
+}
+input {
+    height: 50px;
+    width: 90%;
+    margin-top:70px;
+    margin-bottom:70px;
+    
+}
+.forms {
+    min-height: 600px;
+    flex:1.6;
+}
+.one {
+    margin-bottom:30px;
+
+}
+.forms1 {
+    min-height:600;
+    flex:1;
+    padding: 25px;
+}
+
+.contForm {
+    display: flex;
+}
+.lefttext {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex:.5;
+    justify-content: space-around;
+}
+#different {
+    width: 40%;
+    margin-left:25px;
+    text-align: center;
+    margin: 0 auto;
+}
