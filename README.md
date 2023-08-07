@@ -7,6 +7,13 @@
 ## Overview
 Welcome to the Boston Burger Blog! This is a Python project that showcases the latest trends in the burger scene across Boston. The project utilizes cutting-edge security technology, including bcrypt, to ensure secure user authentication for logging in and out.
 
+## Tech Used
+- Flask: A lightweight and efficient web framework for Python.
+- MySQL: A popular relational database management system.
+- Python: The programming language used for developing the backend.
+- AJAX: Asynchronous JavaScript and XML for smooth user interactions.
+- Bcrypt: A secure password-hashing library.
+
 ## Features
 - Explore a variety of blogs about delicious burgers in Boston.
 - User-friendly interface to navigate through different burger-related topics.
